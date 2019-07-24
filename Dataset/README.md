@@ -1,3 +1,5 @@
+# Description
+
 Some information about the dataset:  
 • The 20-game Dognition Assessment assesses 5 core dimensions of cognition:
 empathy, communication, cunning, memory, and reasoning.  
