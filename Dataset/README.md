@@ -15,6 +15,7 @@ customers free access to the first 4 games of the Dognition Assessment would ent
 them to pay to complete the rest of the Dognition Assessment.
   
 **Description of the variables:**  
+  
 FIELD NAME IN DATASET | DESCRIPTION
 --------------------- | -----------
 User_ID | Unique ID for a human user
