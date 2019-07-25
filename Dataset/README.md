@@ -1,6 +1,6 @@
 # Description
 
-Some information about the dataset:  
+* Some information about the dataset:  
 • The 20-game Dognition Assessment assesses 5 core dimensions of cognition:
 empathy, communication, cunning, memory, and reasoning.  
 • With a few exceptions, all games are presented to customers in the same order.
@@ -14,7 +14,7 @@ month.
 customers free access to the first 4 games of the Dognition Assessment would entice
 them to pay to complete the rest of the Dognition Assessment.
   
-  
+* Description of the variables:  
 FIELD NAME IN DATASET | DESCRIPTION
 --------------------- | -----------
 User_ID | Unique ID for a human user
