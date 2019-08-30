@@ -5,6 +5,8 @@ Dognition (http://www.dognition.com) is a company that teaches you how to build 
 Dognition has provided a dataset for analysis in order to develop your recommendations. You need to read the dataset description and understand this dataset to gain insight into customer’s behavior through the analysis process. 
 
 Our job now is to present the findings to the management team about what they could do to increase the number of tests users complete. You will make this recommendation based on what you learned through analyzing the data.  
+## Dataset  
+See 'dataset' folder for more details.
 ## Outcome
 A complete script of your presentation in the text box (500-700 words), PLUS a corresponding Tableau Story (2-5 visuals).
 
