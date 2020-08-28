@@ -8,5 +8,5 @@ Our job now is to present the findings to the management team about what they co
 ## Dataset  
 See 'dataset' folder for more details.
 ## Outcome
-A complete script of your presentation in the text box (500-700 words), PLUS a corresponding Tableau Story (2-5 visuals).
+A complete script of your presentation, presentation in ppt version or dashboard in Tableau.
 
